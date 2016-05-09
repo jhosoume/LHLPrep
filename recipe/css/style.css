@@ -1,0 +1,72 @@
+body {
+    font-family: 'Merriweather', serif;
+    left: 20%;
+    max-width: 50%;
+    margin: auto;
+}
+
+header {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 65px;
+    /*position: relative;*/
+    /*left: 50%;*/
+    padding: 5%;
+}
+
+.Separator {
+    margin: auto;
+    width: 40%;
+    /*position: relative;*/
+    /*left: 50%;*/
+}
+
+.final {
+    margin: auto;
+    width: 30%;
+    /*position: relative;*/
+    /*left: 50%*/
+}
+
+table img {
+    width: 200px;
+    max_width: 100%;
+}
+
+table {
+    max_width: 100%
+}
+
+
+p {
+    margin: auto;
+}
+
+.Step {
+    width: 40%;
+    display: inline;    
+    border-radius: 8px;
+    margin: auto;
+    display: block;
+    box-shadow: 5px 5px 2.5px #888888;
+}
+
+.Step:hover {
+    width: 45%;
+    display: inline;    
+    border-radius: 8px;
+    margin: auto;
+    display: block;
+    box-shadow: 3px 3px 2.5px #888888;
+}
+
+.instruct {
+}
+
+#imgolive {
+    height: 112px;
+}
+
+
